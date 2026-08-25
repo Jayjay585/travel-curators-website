@@ -1,0 +1,22 @@
+The Travel Curators Website
+SFTP Connection Settings
+
+Protocol: SFTP
+Host/server: HOSTING_SERVER
+Port: 22
+Username: SFTP_USERNAME
+Password: SFTP_PASSWORD
+Remote directory: REMOTE_WEB_DIRECTORY
+
+Local website folder:
+Assessment web page
+
+Upload these files and folders:
+- index.html
+- journeys.html
+- club.html
+- css/
+- images/
+
+Security note:
+Use SFTP instead of plain FTP whenever your hosting provider supports it. Do not save passwords in this file or commit them to version control.
