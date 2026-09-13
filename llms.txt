@@ -1,0 +1,26 @@
+# The Travel Curators
+
+> The Travel Curators creates bespoke luxury travel journeys with thoughtful planning, local knowledge, and trusted access.
+
+## About
+
+The Travel Curators designs personalised travel experiences around each traveller's interests, pace, and preferences. The team plans accommodation, transport, and considered local experiences.
+
+## Pages
+
+- [Home](index.html): Overview of The Travel Curators and its approach to travel design.
+- [Journeys](journeys.html): Curated examples and inspiration for bespoke journeys.
+- [The Club](club.html): Membership benefits and travel access for club members.
+- [FAQ](faq.html): Answers to common questions about planning and services.
+- [Contact](contact.html): Start an enquiry and find office locations.
+
+## Office locations
+
+- Sydney, Australia
+- Guangzhou, China
+
+## Contact
+
+- Email: support@TTC.net
+- Phone: +61 2 1234 5678
+- Office hours: Monday-Friday, 9 AM-6 PM
