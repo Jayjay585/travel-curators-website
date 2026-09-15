@@ -8,6 +8,7 @@ const HOSTNAME = 'localhost';
 
 const server = http.createServer((req, res) => {
   res.setHeader('X-Frame-Options', 'DENY');
+  res.setHeader('X-Content-Type-Options', 'nosniff');
   res.setHeader('Content-Security-Policy', "default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self'; font-src 'self'; connect-src 'self'; media-src 'self'; frame-src 'none'; object-src 'none'; base-uri 'self'; form-action 'self' mailto:; navigate-to 'self' mailto:; frame-ancestors 'none'; upgrade-insecure-requests");
   let filePath = '.' + req.url;
   
