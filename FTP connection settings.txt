@@ -2,10 +2,10 @@ The Travel Curators Website
 SFTP Connection Settings
 
 Protocol: SFTP
-Host/server: HOSTING_SERVER
+Host/server: sftp.example-host.com
 Port: 22
-Username: SFTP_USERNAME
-Password: SFTP_PASSWORD
+Username: travelcuratorsdemo
+Password: Curatorsdemo
 Remote directory: REMOTE_WEB_DIRECTORY
 
 Local website folder:
