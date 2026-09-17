@@ -1,22 +1,15 @@
 The Travel Curators Website
-SFTP Connection Settings
+GitHub Pages Deployment Settings
 
-Protocol: SFTP
-Host/server: sftp.example-host.com
-Port: 22
-Username: travelcuratorsdemo
-Password: Curatorsdemo
-Remote directory: REMOTE_WEB_DIRECTORY
+Hosting service: GitHub Pages
+Protocol: Git
 
 Local website folder:
 Assessment web page
 
-Upload these files and folders:
+Publish these files and folders through the GitHub repository:
 - index.html
 - journeys.html
 - club.html
 - css/
 - images/
-
-Security note:
-Use SFTP instead of plain FTP whenever your hosting provider supports it. Do not save passwords in this file or commit them to version control.
