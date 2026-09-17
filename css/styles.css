@@ -4,7 +4,7 @@
   --paper: #f7f3eb;
   --warm: #dbe7e5;
   --coral: #7d3525;
-  --coral-dark: #2b6675;
+  --coral-dark: #9a6b00;
   --sun: #f1c862;
   --white: #fffdf8;
   --line: rgba(23, 47, 61, 0.16);
@@ -64,7 +64,7 @@ h3 { margin-bottom: .55rem; font-size: 1.55rem; }
 .dark-band .eyebrow { color: var(--sun); }
 .dark-band .lead, .dark-band p { color: #c4d1d0; }
 .dark-band .number-list li { border-top-color: rgba(247, 243, 235, .32); }
-.dark-band .number-list b { color: #a8c9cf; }
+.dark-band .number-list b { color: var(--sun); }
 .dark-band .number-list span { color: var(--paper); }
 .club-callout { display: grid; grid-template-columns: 1fr .8fr; gap: 5rem; align-items: center; }
 .club-card { padding: 2.5rem; background: var(--sun); color: var(--ink); }
